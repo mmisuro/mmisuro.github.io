@@ -1,12 +1,12 @@
 
-@@import url(@import url(https://fonts.googleapis.com/css?family=Indie+Flower);)
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 
 h1 {
-  font-weight: normal;
+  font-weight: bold;
   font-family: "Indie flower" , sans-serif;
-  color: green
+  color: green;
 }
 body {
   font-family: "Indie flower" , sans-serif;
-  font-size: 18px;
+  font-size: 24px;
 }
