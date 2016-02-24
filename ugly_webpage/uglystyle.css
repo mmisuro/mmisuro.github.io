@@ -1,0 +1,31 @@
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+html{
+  background-color: red;
+}
+header {
+  text-align: center;
+  color: brown;
+  font-weight: bold;
+  font-size: 70px;
+  font-family: "Indie Flower";
+  
+}
+#poem1 {
+  float: left;
+  margin: 5px;
+  padding: 2px;
+  border: solid purple 15px;
+  width: 25%;
+  font-size: 50px;
+  color: yellow;
+  background-color: blue;
+}
+#poem2 {
+  float: right;
+  margin: 10px;
+  padding: 6px;
+  border: dashed green 10px;
+  width: 50%;
+  color: pink;
+  background-color: yellow;
+}
