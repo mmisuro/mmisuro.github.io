@@ -1,15 +1,24 @@
-
+body{
+  background-color: #D4726A;
+}
 h1{
   text-align: center;
-  color: red;
+  color: black;
+}
+#toprow{
+  padding-left: 100px;
+}
+#bottomrow{
+padding-top: 25px;
+padding-left: 100px;
 }
 
-#agdsigma{
-  padding-top:100px;
+#middlerow{
+  padding-top: 25px;
+  padding-left: 50px;
 
 }
-
-#fourfrats{
-  padding-top: 50px;
+.images{
+  display: block;
 
 }
