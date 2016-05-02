@@ -1,5 +1,5 @@
 body{
-  background-color: #D4726A;
+  background-color: ;
 }
 h1{
   text-align: center;
@@ -20,5 +20,16 @@ padding-left: 100px;
 }
 .images{
   display: block;
+}
+#categories{
+  padding-top: 50px;
+}
 
+#menubar{
+  border: solid black;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+  text-align: center;
 }
