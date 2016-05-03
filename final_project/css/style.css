@@ -1,9 +1,16 @@
+@import url(https://fonts.googleapis.com/css?family=Shadows+Into+Light);
+@import url(https://fonts.googleapis.com/css?family=Gloria+Hallelujah);
 body{
-  background-color: ;
+  background-color: #4D658D;
 }
 h1{
   text-align: center;
-  color: black;
+  color: white;
+  font-family: shadows into light;
+  font-weight: bolder;
+  font-size: 50px;
+  text-decoration: underline;
+
 }
 #toprow{
   padding-left: 100px;
