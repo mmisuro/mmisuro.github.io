@@ -8,9 +8,12 @@ h1{
   color: white;
   font-family: shadows into light;
   font-weight: bolder;
-  font-size: 50px;
+  font-size: 70px;
   text-decoration: underline;
 
+}
+a{
+  color: white;
 }
 #toprow{
   padding-left: 100px;
@@ -28,8 +31,14 @@ padding-left: 100px;
 .images{
   display: block;
 }
-#categories{
-  padding-top: 50px;
+
+.menu{
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.imagesonpage{
+  padding-top: 20px;
 }
 
 #menubar{
@@ -40,8 +49,8 @@ padding-left: 100px;
   padding-right: 15px;
   text-align: center;
 }
-#RDG{
-
-  float: right;
-
+.words{
+  padding-top: 50px;
+  color: white;
+  font-size: 20px;
 }
