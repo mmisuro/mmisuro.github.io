@@ -1,16 +1,23 @@
-@import url(https://fonts.googleapis.com/css?family=Shadows+Into+Light);
-@import url(https://fonts.googleapis.com/css?family=Gloria+Hallelujah);
+@import url(https://fonts.googleapis.com/css?family=Oswald);
+@import url(https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400italic);
 body{
-  background-color: #4D658D;
+  background-color: #408080;
 }
 h1{
   text-align: center;
   color: white;
-  font-family: shadows into light;
+  font-family: oswald;
   font-weight: bolder;
   font-size: 70px;
-  text-decoration: underline;
+}
 
+b{
+  color: #9BC2C2;
+  text-decoration: underline;
+}
+
+.link{
+  text-align: center;
 }
 a{
   color: white;
@@ -33,8 +40,11 @@ padding-left: 100px;
 }
 
 .menu{
+font-size: 15px;
   padding-left: 10px;
   padding-right: 10px;
+  text-decoration: underline;
+
 }
 
 .imagesonpage{
@@ -42,12 +52,11 @@ padding-left: 100px;
 }
 
 #menubar{
-  border: solid black;
-  padding-top: 15px;
-  padding-bottom: 15px;
-  padding-left: 15px;
-  padding-right: 15px;
+  background-color: #003333;
+  padding-top: 40px;
+  padding-bottom: 40px;
   text-align: center;
+
 }
 .words{
   padding-top: 50px;
