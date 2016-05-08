@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed);
 @import url(https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400italic);
 body{
   background-color: #408080;
@@ -10,17 +11,18 @@ h1{
   font-weight: bolder;
   font-size: 70px;
 }
-
+p{
+  font-family: roboto condensed;
+}
 b{
   color: #9BC2C2;
   text-decoration: underline;
 }
 
-.link{
-text-align: center;
-}
 a{
   color: white;
+  font-family: roboto condensed;
+  font-size: 30px;
 }
 #toprow{
   padding-left: 100px;
@@ -40,7 +42,7 @@ padding-left: 100px;
 }
 
 .menu{
-font-size: 15px;
+font-size: 17px;
   padding-left: 10px;
   padding-right: 10px;
   text-decoration: underline;
